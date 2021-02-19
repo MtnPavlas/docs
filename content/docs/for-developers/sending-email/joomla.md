@@ -14,5 +14,5 @@ Joomla supports sending email over SMTP. To have Joomla relay email through Send
 -   **SMTP Port** – 587
 -   **SMTP Security** – STARTTLS
 -   **SMTP Authentication** - Yes
--   **SMTP User** - sendgrid_username
+-   **SMTP User** - apikey (literally, the phrase "apikey" without the quotation marks)
 -   **SMTP Pass** - sendgrid_api_key
